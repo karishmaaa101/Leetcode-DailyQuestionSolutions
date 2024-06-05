@@ -1,2 +1,5 @@
-# Leetcode-DailyQuestionSolutions
-Here you will find solution to all the daily questions of leetcode in 2024.
+# Leetcode-June-Challenge
+Here you will find solutions to all the daily questions of the June Challenge 2024.
+
+
+
